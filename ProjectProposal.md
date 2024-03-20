@@ -23,7 +23,7 @@ Prospective used car buyers with a lack of knowledge on the effect of a vehicleâ
 
 ### 3. Relationship Between Condition and Mileage and Estimated Price
   
-  Demonstrate the relation of condition, mileage and estimated price.
+  Demonstrate the relation of condition and mileage, and estimated price.
 
 ### 4. Statistics By State
   
