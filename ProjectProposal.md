@@ -21,9 +21,9 @@ Prospective used car buyers with a lack of knowledge on the effect of a vehicleâ
 
   Create a Multiple Regression model using scikit-learn in Python to predict the selling price of a vehicle based on make, body and mileage. Scikit-learn is an open source data analysis library that includes key    concepts such as classification, regression, and clustering. 
 
-### 3. Relationship Between Condition and Mileage and Estimated Price
+### 3. Relationship Between Condition and Mileage and Market Value
   
-  Demonstrate the relation of condition and mileage, and estimated price.
+  Demonstrate the relation of condition and mileage, and market value.
 
 ### 4. Statistics By State
   
