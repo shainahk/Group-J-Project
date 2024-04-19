@@ -1,7 +1,7 @@
 # Group-J-Project
 Members:
 
-Amelia Seemungal  <<id>>
+Amelia Seemungal  816030432
 
 Shainah Kalicharan  816030327
 
